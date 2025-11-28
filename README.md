@@ -1,5 +1,5 @@
 ![logo](https://github.com/Sufyaancoders/sufyaancoders/blob/main/Picsart_24-05-16_00-14-00-399.png)
-<h1 align="center">Hi 👋, I'm Sufyaan Ahmad</h1>
+<h1 align="center">Greetings, I'm Daryl Gatt — Welcome to my Domain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">I am an enthusiastic fresher with highly motivated and leadership skills having bachelors of engineering degree in IT branch.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufyaancoders&label=Profile%20views&color=0e75b6&style=flat" alt="sufyaancoders" /> </p>
