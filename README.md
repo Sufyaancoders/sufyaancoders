@@ -1,4 +1,4 @@
-![logo](https://github.com/Sufyaancoders/sufyaancoders/blob/main/Picsart_24-05-16_00-14-00-399.png)
+![logo](Picsart_25-11-29_00-00-02-828.jpg)
 <h1 align="center">Greetings, I'm Sufyaan Ahmad — Welcome to my Domain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">I am an enthusiastic fresher with highly motivated and leadership skills having bachelors of engineering degree in IT branch.</h3>
 <p align="center"> 
